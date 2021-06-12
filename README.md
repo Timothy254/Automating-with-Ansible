@@ -1,3 +1,9 @@
+# NOTE
+
+For better understanding checkout the report pdf rar file where I explain everything step by step.
+
+
+
 # test 
  
 1. You will use Ansible to do server hardening. e.g. http://isa.com.gh/2018/05/how-to-automate-pentesting-with-ansible-part-1-installation-configuration/ or https://github.com/juju4/ansible-harden-windows/tree/master/tasks
